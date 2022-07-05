@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 # Gunayeon.github.io
 
