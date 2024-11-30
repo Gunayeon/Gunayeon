@@ -1,6 +1,6 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
-## Hi there 👋
 
+<h3 align="left"> 🛠 Tech Stack 🛠 </h3>
 <!--
 **Gunayeon/Gunayeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
